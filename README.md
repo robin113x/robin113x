@@ -1,9 +1,13 @@
 ![alt text](https://raw.githubusercontent.com/robin113x/robin/main/My.png)
 
 <div align="center">
-   <a href="https://robinroy.cf/" target="_blank">👉 Robin</a>
 
   ![](https://komarev.com/ghpvc/?username=robin113x&color=ff69b4)
+</div>
+
+<div align="center">
+
+  <a href="https://robinroy.cf" target="_blank" > <img src="https://img.shields.io/website?style=plastic&up_message=robinroy.cf&url=https%3A%2F%2Frobinroy.cf" target="_blank"> </a>
 </div>
 <!--
 **robinr0y/robinr0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=robin113x&show_icons=true&theme=gruvbox)](https://github.com/robin113x/github-readme-stats)
-[![Language Preferences](https://github-readme-stats.vercel.app/api/top-langs/?username=robin113x&layout=compact&theme=gruvbox)](https://github.com/robin113x/github-readme-stats) 
+
