@@ -1,4 +1,4 @@
-
+<h1 align="center">ROBIN SUNITA ROY</h1>
 
 <div align="center">
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">ROBIN SUNITA ROY</h3>
+
 
 <h3 align="center">A Cyber-Security Enthusiast & Full Stack Web Developer from India</h3>
 
