@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 <h3 align="center">A Cyber-Security Enthusiast & Full Stack Web Developer from India</h3>
 
 </p>
-![alt text](https://artfiles.alphacoders.com/158/158998.jpg)
+
