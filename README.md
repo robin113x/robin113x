@@ -27,7 +27,42 @@ Here are some ideas to get you started:
 -->
 
 
-<h3 align="center">A Cyber-Security Enthusiast & Full Stack Web Developer from India</h3>
+<h3 align="center">A Cyber-Security Enthusiast & DevOps Engineer from India</h3>
 
 </p>
 
+<hr>
+<h3 align="center" style="color:red;">Here’s what I’ve proficiently acquired:</h3>
+<table align="center">
+  <tr>
+    <td>🔭 I’m currently learning about</td>
+    <td>SEC565: Red Team Operations and Adversary Emulation</td>
+  </tr>
+  <tr>
+    <td>🌱 Exploitation Framework</td>
+    <td>MetaSploit, Cobalt-Strike, PowerShell-Empire</td>
+  </tr>
+  <tr>
+    <td>👯 Scanning Tools</td>
+    <td>Nmap, RustScan, Nessus</td>
+  </tr>
+  <tr>
+    <td>🤔 Languages</td>
+    <td>PowerShell, Rust, Java, C, C++, Python, Bash</td>
+  </tr>
+  <tr>
+    <td>💬 Proxy Tools</td>
+    <td>Burp Suite Professional, ZAP</td>
+  </tr>
+  <tr>
+    <td>📫 Initial Access</td>
+    <td>Evilginx, GoPhish</td>
+  </tr>
+  <tr>
+    
+  </tr>
+  <tr>
+    <td>⚡ Fun fact</td>
+    <td>An Electrical Engineer who transitioned into a Cybersecurity Professional. A fun fact about me is that I can hack into a network quicker than I can solve a Rubik's cube!</td>
+  </tr>
+</table>
