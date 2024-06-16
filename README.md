@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>🤔 Languages</td>
-    <td>PowerShell, Rust, Java, C, C++, Python, Bash</td>
+    <td> Java, PowerShell, Rust, Java, C, C++, Python, Bash</td>
   </tr>
   <tr>
     <td>💬 Proxy Tools</td>
