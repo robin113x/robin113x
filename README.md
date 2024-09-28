@@ -58,6 +58,11 @@ Here are some ideas to get you started:
     <td>📫 Initial Access</td>
     <td>Evilginx, GoPhish</td>
   </tr>
+
+   <tr>
+    <td>Web-App-Sec</td>
+    <td>SQLi, XXE</td>
+  </tr>
   <tr>
     
   </tr>
