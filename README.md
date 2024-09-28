@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   </tr>
 
    <tr>
-    <td>Web-App-Sec</td>
+    <td>✨ Web-App-Sec</td>
     <td>SQLi, XXE</td>
   </tr>
   <tr>
