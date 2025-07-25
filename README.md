@@ -1,5 +1,7 @@
 <h1 align="center">ROBIN SUNITA ROY</h1>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AggressiveUser/AggressiveUser/main/happy.gif" alt="AggressiveUser" width=320 height=150>
+</p>
 <div align="center">
 
   ![](https://komarev.com/ghpvc/?username=robin113x&color=ff69b4)
